@@ -1,5 +1,5 @@
 # Seohyun Kim
-**Business Administration × AI Engineering · Digital Transformation in Banking & Finance**
+**Business Administration × AI Engineering · Digital Transformation**
 
 ---
 
@@ -8,14 +8,14 @@ Business administration background combined with hands-on AI/ML engineering, wit
 
 ---
 
-## 🎓 Education
+## Education
 
 **Sookmyung Women's University**
 Bachelor of Business Administration (BBA) | Mar 2021 – Feb 2026
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Data & Programming** &nbsp; Python · SQL · Pandas · NumPy · Scikit-learn
 
@@ -23,6 +23,6 @@ Bachelor of Business Administration (BBA) | Mar 2021 – Feb 2026
 
 ---
 
-## 🔗 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyun--kim-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/seohyun-kim-1893ba360)
